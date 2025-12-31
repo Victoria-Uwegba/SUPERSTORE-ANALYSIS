@@ -36,15 +36,12 @@ Comprehensive retail analysis platform for tracking Superstore's 2014 performanc
   - Paper (\[$30,199.33\])
   - Tables (\[$27,296.64\])
   - Accessories (\[$17,931.86\])
-- **Action**: Increase stock levels by 25% for top 3 sub-categories
+- **Action**: Increase stock levels by 25% for the top 3 sub-categories
 
 ### Regional Focus
 - Prioritize West region fulfillment centers
-- Develop targeted promotions for Central region (lowest contribution)
+- Develop targeted promotions for the Central region (lowest contribution)
 
 - Capitalize on holiday tech sales (November/December peak)
 - Bundle office supplies with furniture during back-to-school season
 
-
-## License
-Apache 2.0 License - See [LICENSE](LICENSE) for details
